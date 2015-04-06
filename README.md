@@ -10,7 +10,7 @@ This repository contains IPython notebooks, scripts, modules and supporting file
 
 #### Online courses
 
-Several websites such as [CodeAcademy](http://www.codecademy.com/en/tracks/python), [LearnPython](http://www.learnpython.org/) and [PythonTutor](http://www.pythontutor.com/) provide interactive, online Python courses. [CodeMentor](https://www.codementor.io/learn-python-online) also has links to a number of online tutorials. Coursera also runs an occassional [Interactive Python](https://www.coursera.org/course/interactivepython1) course that might be better for students that want to do a course together with others.
+Several websites such as [CodeAcademy](http://www.codecademy.com/en/tracks/python), [LearnPython](http://www.learnpython.org/), [One Month Python](https://onemonth.com/courses/python) and [PythonTutor](http://www.pythontutor.com/) provide interactive, online Python courses. [CodeMentor](https://www.codementor.io/learn-python-online) also has links to a number of online tutorials. Coursera also runs an occassional [Interactive Python](https://www.coursera.org/course/interactivepython1) course that might be better for students that want to do a course together with others.
 
 #### Software Carpentry and other learning materials
 
